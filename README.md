@@ -15,7 +15,7 @@ The code is intended for **academic / educational use**, especially for students
 
 The repository currently includes the following scripts:
 
-- **`Directed Wright-Fisher diffusion.py`**  
+- **`Undirected Wright-Fisher diffusion.py`**  
   Studies the diffusion approximation of opinion dynamics on directed networks. The script investigates the evolution of opinion density and its relationship with theoretical predictions derived from Wright–Fisher–type diffusion limits in the presence of degree heterogeneity.
 
 ---
